@@ -359,8 +359,8 @@ if __name__ == "__main__":
     config.logger.info("data is ready.......")
     if model_name == "NET":
         model = NETModel(config)
-    elif model_name == "DZET":
-        model = DZETModel(config)
+    # elif model_name == "DZET":
+    #    model = DZETModel(config)
     elif model_name == "Ctxt_ZET":
         model = CtxtModel(config)
     elif model_name == "MZETModel":
