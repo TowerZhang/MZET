@@ -14,12 +14,9 @@ This repository is for the accepted paper: [MZET: Memory Augmented Zero-Shot Fin
 
 
 ### Model training
-* 
 '''
 pyrhon build_data.py
-'''
-* 
-'''
+
 python config_train.py
 '''
 
