@@ -1,1 +1,1 @@
-The Raw Data for BBN/OntoNote/Wiki(FIGER) come from [PLE](https://github.com/INK-USC/PLE).
+The Raw Data for BBN/OntoNote/Wiki(FIGER) come from [PLE](https://github.com/INK-USC/PLE). Given the limited file size, we upload BBN training and testing data here, you can add the Ontonote and Wiki like BBN directory if you need.
