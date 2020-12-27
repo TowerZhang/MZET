@@ -262,7 +262,7 @@ class Config():
     memory_embedding_size = 300  # memory size
 
     # bert
-    BERT_MODEL = 'uncased_L-12_H-768_A-12'
+    BERT_MODEL = 'cased_L-12_H-768_A-12'
     BERT_PRETRAINED_DIR = '../bert/' + BERT_MODEL
     VOCAB_FILE = BERT_PRETRAINED_DIR + '/vocab.txt'
     BERT_CONFIG = BERT_PRETRAINED_DIR + '/bert_config.json'
