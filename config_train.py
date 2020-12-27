@@ -230,8 +230,8 @@ class Config():
     # feature_flag = "BertTuning"
 
     # dataname = "Wiki"
-    dataname = "OntoNotes"
-    # dataname = "BBN"
+    # dataname = "OntoNotes"
+    dataname = "BBN"
 
     dataloader = DataLoader(dataname)
     # embeddings
