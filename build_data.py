@@ -328,10 +328,10 @@ def main():
         "level1_label2id": level1_label2id,
         "level2_label2id": level2_label2id
     }
-    print(get_sentence_max_length(para_data["test"]))
-    # word_character_statistics(para_data, glove_emb_vec)
-    # save_sentence_json(para_data)
-    # label_embedding_data(glove_emb_vec)
+    
+    word_character_statistics(para_data, glove_emb_vec)
+    save_sentence_json(para_data)
+    label_embedding_data(glove_emb_vec)
     # NET_tfrecord_data(para_data)
     # DZET_tfrecord_data(para_data, glove_emb_vec)
     Ctxt_NET_tfrecord_data(para_data)
