@@ -7,7 +7,7 @@ from tfrecords_data_io import decode_from_tfrecords, decode_from_tfrecords2, dec
                               decode_from_bertdata
 import mention_tokenization as tokenization
 from model_net import NETModel
-from model_DZET import DZETModel
+# from model_DZET import DZETModel
 from model_CtxtZET import CtxtModel
 from model_MZET import MZETModel
 from model_MZET_attn import Attn_MZETModel
