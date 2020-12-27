@@ -22,3 +22,19 @@ python config_train.py
 
 
 ### Citation Format
+```
+@inproceedings{zhang-etal-2020-mzet,
+    title = "{MZET}: Memory Augmented Zero-Shot Fine-grained Named Entity Typing",
+    author = "Zhang, Tao  and
+      Xia, Congying  and
+      Lu, Chun-Ta  and
+      Yu, Philip",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.coling-main.7",
+    pages = "77--87",
+}
+```
